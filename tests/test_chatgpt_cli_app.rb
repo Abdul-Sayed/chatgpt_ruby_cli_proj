@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative '../lib/my_chatgpt_cli_app'
+require_relative '../lib/chatgpt_cli_app'
 
 class TestChatGPTClient < Minitest::Test
   def setup
