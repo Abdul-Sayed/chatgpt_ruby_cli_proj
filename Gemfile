@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'http'
 gem 'minitest'
 gem 'dotenv'
-gem 'ruby-openai'
+gem 'net-http'
+gem 'uri'
+gem 'json'
